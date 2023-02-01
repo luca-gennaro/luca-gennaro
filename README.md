@@ -2,7 +2,7 @@
 #### I am jr Full Stack Developer
 Computer and Technology enthusiast. I'm learning to become a Full stack Developer. I like to challenge myself and push my limits.
 - 📫 How to reach me: lucagennaro91@gmail.com 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luca-gennaro/) => My Linkedin Profile
+My Linkedin Profile
 <hr>
 
 
@@ -13,6 +13,6 @@ Computer and Technology enthusiast. I'm learning to become a Full stack Develope
 <hr>
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hershellayton95&layout=compact&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-gennaro&layout=compact&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>

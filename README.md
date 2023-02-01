@@ -9,7 +9,11 @@ Computer and Technology enthusiast. I'm learning to become a Full stack Develope
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/luca-gennaro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luca-gennaro/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-gennaro)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luca-gennaro&theme=nord&show_icons=true&count_private=true)
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luca-gennaro&theme=nord&show_icons=true&count_private=true)
+  
+ </div>
+<hr>
+<div align="center">
 

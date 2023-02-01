@@ -16,4 +16,7 @@ Computer and Technology enthusiast. I'm learning to become a Full stack Develope
  </div>
 <hr>
 <div align="center">
-
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hershellayton95&layout=compact&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>

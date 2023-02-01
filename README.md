@@ -2,7 +2,7 @@
 #### I am jr Full Stack Developer
 Computer and Technology enthusiast. I'm learning to become a Full stack Developer. I like to challenge myself and push my limits.
 - 📫 How to reach me: lucagennaro91@gmail.com 
-- My Linkedin Profile: www.linkedin.com/in/luca-gennaro
+- <i class="fa-brands fa-linkedin"></i> My Linkedin Profile: www.linkedin.com/in/luca-gennaro
 <hr>
 
 

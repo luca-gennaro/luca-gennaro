@@ -3,7 +3,7 @@
 Computer and Technology enthusiast. I'm learning to become a Full stack Developer. I like to challenge myself and push my limits.
 - 📫 How to reach me: lucagennaro91@gmail.com 
 
-<img src="https://raw.githubusercontent.com/luca-gennaro/luca-gennaro/main/images/linkedin.svg" width=”21px”/>
+<img src="https://raw.githubusercontent.com/luca-gennaro/luca-gennaro/main/images/linkedin.svg" width="21px"/>
 
 <hr>
 

@@ -13,6 +13,6 @@ Computer and Technology enthusiast. I'm learning to become a Full stack Develope
 <hr>
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-gennaro&layout=compact&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-gennaro&layout=compact&theme=transparent&count_private=true&border_color=black)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>

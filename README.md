@@ -2,7 +2,8 @@
 #### I am jr Full Stack Developer
 Computer and Technology enthusiast. I'm learning to become a Full stack Developer. I like to challenge myself and push my limits.
 - 📫 How to reach me: lucagennaro91@gmail.com 
-- My Linkedin Profile: www.linkedin.com/in/luca-gennaro
+<a href=”https://www.linkedin.com/in/luca-gennaro"><img align=”left” src=”https://raw.githubusercontent.com/luca-gennaro/luca-gennaro/main/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+- My Linkedin Profile: 
 <hr>
 
 
@@ -13,6 +14,6 @@ Computer and Technology enthusiast. I'm learning to become a Full stack Develope
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-gennaro&layout=compact&theme=transparent&count_private=true&border_color=#000000)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-gennaro&layout=compact&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>

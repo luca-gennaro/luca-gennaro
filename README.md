@@ -1,9 +1,8 @@
 ### Hi there 👋, my name is Luca Gennaro
 
-<div align="center>
-
+<div>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
-
+</div>
 
 #### I am jr Full Stack Developer
 Computer and Technology enthusiast. I'm learning to become a Full stack Developer. I like to challenge myself and push my limits.
@@ -13,7 +12,6 @@ Computer and Technology enthusiast. I'm learning to become a Full stack Develope
 
 <a href="https://www.linkedin.com/in/luca-gennaro/"><img src="https://raw.githubusercontent.com/luca-gennaro/luca-gennaro/main/images/linkedin.svg" width="21px"/>
  My Linkedin Profile</a>
-</div>
   
 <hr>
 
